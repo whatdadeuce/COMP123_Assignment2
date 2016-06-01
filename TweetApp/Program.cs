@@ -11,7 +11,9 @@ namespace TweetApp
     {
         static void Main(string[] args)
         {
+            //TweetManager.ShowAll();
             TweetManager.ShowAll("taxes");
+            TweetManager.ShowAll("Ford");
         }
     }
 }

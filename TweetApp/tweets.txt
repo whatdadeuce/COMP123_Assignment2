@@ -1,0 +1,5 @@
+Amit	Hina	Its nice weather in Toronto	#weather
+Amit	Hina	Its raining today	#rain
+Amit	Hina	Its holiday today	#holiday
+Amit	Hina	I am learning c-sharp	#programming
+Amit	Hina	I like to eat carrot	#diet
